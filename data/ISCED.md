@@ -26,7 +26,6 @@ ISCED has **9 levels** (0-8) that classify education programs by their education
 
 - **Global Standard**: Used by UNESCO member states for international education statistics
 - **Comprehensive Coverage**: Includes all types of education from early childhood to doctoral level
-- **Flexible Framework**: Can accommodate different national education systems
 - **Regular Updates**: Periodically revised to reflect changes in education systems worldwide
 
 ---
