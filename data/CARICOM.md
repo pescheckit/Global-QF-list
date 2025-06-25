@@ -1,7 +1,4 @@
 # 🌴 CARICOM Qualifications Framework (CQF)
-
-The **CARICOM Qualifications Framework (CQF)** is a regional qualifications framework developed by the Caribbean Community (CARICOM) to facilitate the recognition of qualifications across member states. It provides a common reference point for comparing qualifications across the Caribbean region.
-
 The CQF has **10 levels**, ranging from basic education to doctoral degrees, with clear level descriptors and learning outcomes for each level.
 
 ---

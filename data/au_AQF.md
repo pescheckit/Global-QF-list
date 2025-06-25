@@ -1,7 +1,4 @@
 # 🇦🇺 Australian Qualifications Framework (AQF)
-
-The **Australian Qualifications Framework (AQF)** is the national policy for regulated qualifications in Australian education and training. It incorporates the qualifications from each education and training sector (schools, vocational education and training, and higher education) into a single comprehensive national qualifications framework.
-
 The AQF has **10 levels**, with Level 1 being the most basic qualification and Level 10 being the highest. The framework provides the standards for Australian qualifications and helps students progress easily through the education system.
 
 ---

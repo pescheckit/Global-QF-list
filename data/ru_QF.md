@@ -4,7 +4,6 @@
 Limited English-language documentation is available about the Russian National Qualifications Framework (RQF). The information below is based on available sources and may not represent the most current implementation. Official Russian-language sources should be consulted for authoritative information.
 
 ## Overview
-The **Russian Qualifications Framework (RQF)** is the national framework that classifies qualifications according to a set of criteria for levels of learning outcomes. It serves as a reference for comparing qualifications across different education and training systems in Russia and facilitates the recognition of Russian qualifications internationally.
 
 The RQF consists of **9 levels**, with Level 1 representing basic occupational skills and Level 9 representing the highest level of professional mastery. The framework is designed to align with the European Qualifications Framework (EQF) to support international recognition and mobility.
 
@@ -24,12 +23,6 @@ The RQF consists of **9 levels**, with Level 1 representing basic occupational s
 
 ---
 
-## 🔍 Key Features of RQF
-
-- **Progressive Structure**: The framework follows a clear progression from basic to highly specialized skills and knowledge.
-- **Lifelong Learning**: Supports continuous professional development and upskilling throughout one's career.
-- **International Alignment**: Mapped to the European Qualifications Framework (EQF) for international recognition.
-- **Sector-Specific Applications**: Can be adapted to different professional sectors while maintaining consistency in level descriptors.
 
 ## 📎 Sources
 

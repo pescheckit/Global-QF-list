@@ -25,10 +25,6 @@ The AQRF involves the 10 member states of the Association of Southeast Asian Nat
 - To support lifelong learning and recognition of learning outcomes.
 - To facilitate learner and worker mobility within the ASEAN region.
 
-## Key Developments
-
-- Malaysia and the Philippines presented their referencing reports to the AQRF in 2019.
-
 ## Reference
 
 - [ETF Open Space: Qualifications Frameworks](https://openspace.etf.europa.eu/content/721-qualifications-frameworks)
